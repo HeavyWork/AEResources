@@ -14,4 +14,248 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Headers\adobesdk\config\AdobesdkTypes.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\adobesdk\config\PostConfig.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\adobesdk\config\PreConfig.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\adobesdk\drawbotsuite\DrawbotSuiteTypes.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\adobesdk\DrawbotSuite.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\SP\SPAccess.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\SP\SPAdapts.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\SP\SPBasic.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\SP\SPBckDbg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\SP\SPBlocks.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\SP\SPCaches.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\SP\SPCOM.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\SP\SPConfig.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\SP\SPErrorCodes.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\SP\SPErrors.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\SP\SPFiles.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\SP\SPHost.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\SP\SPInterf.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\SP\SPMData.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\SP\SPPiPL.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\SP\SPPlugs.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\SP\SPProps.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\SP\SPRuntme.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\SP\SPStrngs.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\SP\SPSTSPrp.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\SP\SPSuites.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\SP\SPTypes.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Win\stdint.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\A.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\AE_AdvEffectSuites.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\AE_CacheOnLoadSuite.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\AE_ChannelSuites.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\AE_CreatorInfo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\AE_Effect.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\AE_EffectCB.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\AE_EffectCBSuites.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\AE_EffectPixelFormat.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\AE_EffectSuites.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\AE_EffectSuitesHelper.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\AE_EffectSuitesOld.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\AE_EffectUI.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\AE_EffectVers.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\AE_GeneralPlug.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\AE_GeneralPlugOld.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\AE_GeneralPlugPanels.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\AE_GeneralPlugPost.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\AE_GeneralPlugPre.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\AE_Hook.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\AE_IO.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\AE_IO_FileExt.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\AE_Macros.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\AEConfig.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\AEFX_SuiteHandlerTemplate.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\FIEL_Public.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Mach-O_prefix.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\PF_Masks.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\PIFormatT.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\PR_Public.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\PrSDKAESupport.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\PrSDKPixelFormat.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\PT_Public.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\SuiteHelper.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Util\AEFX_ArbParseHelper.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Util\AEFX_ChannelDepthTpl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Util\AEFX_SuiteHelper.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Util\AEGP_SuiteHandler.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Util\AEGP_Utils.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Util\DuckSuite.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Util\entry.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Util\Param_Utils.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Util\Smart_Utils.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Util\String_Utils.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Headers\SP\SPEDebug.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Util\AEFX_ArbParseHelper.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Util\AEFX_SuiteHelper.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Util\AEGP_SuiteHandler.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Util\AEGP_Utils.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Util\MissingSuiteError.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Util\Smart_Utils.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Util\String_Utils.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
