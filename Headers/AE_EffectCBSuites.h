@@ -1,4 +1,4 @@
-/*******************************************************************/
+﻿/*******************************************************************/
 /*                                                                 */
 /*                      ADOBE CONFIDENTIAL                         */
 /*                   _ _ _ _ _ _ _ _ _ _ _ _ _                     */
@@ -512,7 +512,7 @@ typedef struct PF_Iterate8Suite1 {
 		const PF_Rect	*area,
 		const PF_Point	*origin,
 		void*		refcon,
-		register PF_Err	(*pix_fn)(void* refcon, A_long x, A_long y, PF_Pixel *in, PF_Pixel *out),
+		PF_Err	(*pix_fn)(void* refcon, A_long x, A_long y, PF_Pixel *in, PF_Pixel *out),
 		PF_EffectWorld	*dst);
 
 	 PF_Err (*iterate_generic)(
@@ -561,7 +561,7 @@ typedef struct PF_iterate16Suite1 {
 		const PF_Rect	*area,
 		const PF_Point	*origin,
 		void*		refcon,
-		register PF_Err	(*pix_fn)(void* refcon, A_long x, A_long y, PF_Pixel16 *in, PF_Pixel16 *out),
+		PF_Err	(*pix_fn)(void* refcon, A_long x, A_long y, PF_Pixel16 *in, PF_Pixel16 *out),
 		PF_EffectWorld	*dst);
 		
 } PF_Iterate16Suite1;
