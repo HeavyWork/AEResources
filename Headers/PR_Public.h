@@ -1,8 +1,8 @@
-#ifndef _PR_Public_H
+﻿#ifndef _PR_Public_H
 #define _PR_Public_H
 
 /** PR_Public.h
- ** �2005 by Adobe Systems Inc.
+ ** 2005 by Adobe Systems Inc.
  **	Public header that defines the API for plug-in renderers
  **
  ** Plugin renderers are known as artisans. They are AEGP modules which register
